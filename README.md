@@ -59,16 +59,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Princejangra146/Princejangra146/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Princejangra146&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</div>
 
 <!-- Footer GIF -->
 <div align="center">
