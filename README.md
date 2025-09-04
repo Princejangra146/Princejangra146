@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">👾 Prince Jangra 👾</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🕶️ Dark Theme Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer</h3>
 
 ---
 
