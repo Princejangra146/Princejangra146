@@ -1,6 +1,6 @@
 <!-- Cyberpunk Banner -->
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxbXl6aG84OXNnb2poa3R3emw4Y3M5OTRscW52dzl3bzVxemlybiZlcDczdyZ5ZzZn/gM5qFksULw54NMWyry/giphy.gif" width="100%" alt="Cyberpunk Coding Banner"/>
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxbXl6aG84OXNnb2poa3R3emw4Y3M5OTRscW52dzl3bzVxemlybiZlcDczdyZ5ZzZn/gM5qFksULw54NMWyry/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="100%" alt="Cyberpunk Coding Banner"/>
 </div>
 
 <h1 align="center">👾 Prince Jangra 👾</h1>
