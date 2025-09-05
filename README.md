@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">👾 Prince Jangra 👾</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🕶️ Dark Futuristic Creator</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer</h3>
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🛸 Animation Zone
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=FF44CC&center=true&vCenter=true&width=800&lines=⚡+MERN+Stack+Developer;🎨+UI%2FUX+Designer;👾+Dark+Theme+Builder;🚀+Always+leveling+up!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=FF44CC&center=true&vCenter=true&width=800&lines=⚡+MERN+Stack+Developer;🎨+UI%2FUX+Designer;🚀+Always+leveling+up!" alt="Typing SVG" />
 </p>
 
 <p align="center">
