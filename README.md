@@ -1,23 +1,24 @@
 <!-- Cyberpunk Banner -->
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxbXl6aG84OXNnb2poa3R3emw4Y3M5OTRscW52dzl3bzVxemlybiZlcDczdyZ5ZzZn/gM5qFksULw54NMWyry/giphy.gif" width="100%" alt="Cyberpunk Coding Banner"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp3NzdhaHNkaW04dzYyNnNmZXIzdXU0Y2h3MThndHJ6d3Rxb2V0bSZlcD12MV9pbnRlcm5hbF9naWZfYnk&rid=giphy.gif" width="100%" alt="Cyberpunk Coding Banner"/>
 </div>
 
 <h1 align="center">👾 Prince Jangra 👾</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🕶️ Dark Theme Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🕶️ Dark Futuristic Creator</h3>
 
 ---
 
-## ⚡ Who Am I?  
-💡 A **MERN Stack Developer** who loves crafting **UI/UX that feels alive**.  
-🔥 Passionate about **dark futuristic designs** + **real-world problem solving**.  
-🎯 Blending **design & code** to create unforgettable user experiences.  
+## ⚡ About Me  
+💡 A **MERN Stack Developer** who blends **design thinking with powerful code**.  
+🎨 Crafting **UI/UX experiences that feel alive & futuristic**.  
+🔥 Passionate about **dark themes, animations, and immersive digital worlds**.  
+🎯 Mission: To merge **aesthetic design + functional web apps** into seamless user journeys.  
 
 ---
 
-## 🌌 My Universe (Skills)  
+## 🌌 My Tech Universe  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,figma,js,ts,html,css,cpp" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,figma,js,ts,html,css,cpp,git,github" /><br/>
   <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> 
   <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/> 
   <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/>
@@ -25,12 +26,11 @@
 
 ---
 
-## 🛸 Unique Animation Zone
+## 🛸 Animation Zone
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=⚡+MERN+Stack+Developer;🎨+UI%2FUX+Designer;👾+Dark+Theme+Builder;🚀+Always+leveling+up!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=FF44CC&center=true&vCenter=true&width=800&lines=⚡+MERN+Stack+Developer;🎨+UI%2FUX+Designer;👾+Dark+Theme+Builder;🚀+Always+leveling+up!" alt="Typing SVG" />
 </p>
 
-<!-- 🔥 Your Custom Animation Added Here -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700px" alt="Custom Dark Animation"/>
 </p>
@@ -39,24 +39,24 @@
 
 ## 📊 Stats in Dark Mode
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Princejangra146&theme=vision-friendly-dark&hide_border=true&show_icons=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Princejangra146&theme=vision-friendly-dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Princejangra146&theme=radical&hide_border=true&show_icons=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Princejangra146&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princejangra146&layout=compact&theme=vision-friendly-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princejangra146&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🏆 Dark Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Princejangra146&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Princejangra146&theme=onestar&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🐉 My Contribution Beast
+## 🐉 Contribution Beast
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
 </p>
@@ -74,7 +74,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Princejangra146&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Princejangra146&label=Profile%20Views&color=6&icon=2&pretty=true" />
 </div>
 
 <!-- Footer -->
