@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp3NzdhaHNkaW04dzYyNnNmZXIzdXU0Y2h3MThndHJ6d3Rxb2V0bSZlcD12MV9pbnRlcm5hbF9naWZfYnk&rid=giphy.gif" width="100%" alt="Cyberpunk Coding Banner"/>
 </div>
 
-<h1 align="center">👾 Prince Jangra 👾</h1>
+<h1 align="center"> Prince Jangra </h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer</h3>
 
 ---
